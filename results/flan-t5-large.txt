@@ -1,0 +1,26 @@
+flan-t5-large{
+    "wordplay": {
+        "over_all accuracy": 0.21717171717171718,
+        "original_accuracy": 0.17424242424242425,
+        "semantic_accuracy": 0.18181818181818182,
+        "context_accuracy": 0.29545454545454547,
+        "ori_sema": 0.10606060606060606,
+        "ori_sema_cont": 0.045454545454545456
+    },
+    "sentence": {
+        "over_all accuracy": 0.1814595660749507,
+        "original_accuracy": 0.15384615384615385,
+        "semantic_accuracy": 0.17159763313609466,
+        "context_accuracy": 0.21893491124260356,
+        "ori_sema": 0.10650887573964497,
+        "ori_sema_cont": 0.04142011834319527
+    },
+    "all": {
+        "over_all accuracy": 0.19712070874861573,
+        "original_accuracy": 0.16279069767441862,
+        "semantic_accuracy": 0.1760797342192691,
+        "context_accuracy": 0.25249169435215946,
+        "ori_sema": 0.10631229235880399,
+        "ori_sema_cont": 0.04318936877076412
+    }
+}
