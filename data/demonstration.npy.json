@@ -1,0 +1,162 @@
+[
+    {
+        "Question": "Five kids were playing in a park when it suddenly started to rain. Four of the kids dashed towards a nearby tree for shelter, but the fifth did not. Yet, they all stayed dry, and all but the fifth were out of breath. How is that possible?",
+        "Answer": "The fifth kid was in a picture that one of the other kids was holding.",
+        "Choice1": "The 5th kid walked slowly  to dodge the snow.",
+        "Choice2": "This kid walked much faster than they run",
+        "Choice3": "None of above.",
+        "label": 1,
+        "choice_list": [
+            "This kid walked much faster than they run",
+            "The fifth kid was in a picture that one of the other kids was holding.",
+            "The 5th kid walked slowly  to dodge the snow.",
+            "None of above."
+        ],
+        "choice_order": [
+            2,
+            0,
+            1,
+            3
+        ]
+    },
+    {
+        "Question": "A spaceship is hurtling towards a star. Around the spaceship, there are asteroids, a space station, a satellite, and a moon. When the spaceship crashes, which one is destroyed first?",
+        "Answer": "None of above.",
+        "Choice1": "The satellite.",
+        "Choice2": "The moon.",
+        "Choice3": "The Space station.",
+        "label": 3,
+        "choice_list": [
+            "The moon.",
+            "The Space station.",
+            "The satellite.",
+            "None of above."
+        ],
+        "choice_order": [
+            2,
+            3,
+            1,
+            0
+        ]
+    },
+    {
+        "Question": "How can you run behind your teammate in a race, while they run behind you?",
+        "Answer": "By running in a circular track.",
+        "Choice1": "If you friend is running much faster than you.",
+        "Choice2": "If you is running much faster than your friend.",
+        "Choice3": "None of above.",
+        "label": 1,
+        "choice_list": [
+            "If you is running much faster than your friend.",
+            "By running in a circular track.",
+            "If you friend is running much faster than you.",
+            "None of above."
+        ],
+        "choice_order": [
+            2,
+            0,
+            1,
+            3
+        ]
+    },
+    {
+        "Question": "What is the maximum number of books a librarian can place on an empty shelf?",
+        "Answer": "One. After that, it's no longer empty.",
+        "Choice1": "It based on the size of the shelf.",
+        "Choice2": "Infinite number of empty shelf.",
+        "Choice3": "None of above.",
+        "label": 2,
+        "choice_list": [
+            "It based on the size of the shelf.",
+            "Infinite number of empty shelf.",
+            "One. After that, it's no longer empty.",
+            "None of above."
+        ],
+        "choice_order": [
+            1,
+            2,
+            0,
+            3
+        ]
+    },
+    {
+        "Question": "What kind of keys never open any doors?",
+        "Answer": "Monkeys.",
+        "Choice1": "Wood key.",
+        "Choice2": "Gold key.",
+        "Choice3": "None of above.",
+        "label": 1,
+        "choice_list": [
+            "Gold key.",
+            "Monkeys.",
+            "Wood key.",
+            "None of above."
+        ],
+        "choice_order": [
+            2,
+            0,
+            1,
+            3
+        ]
+    },
+    {
+        "Question": "What kind of ship is hard to land in?",
+        "Answer": "A partnership.",
+        "Choice1": "A fisher ship.",
+        "Choice2": "A cargo ship.",
+        "Choice3": "None of above.",
+        "label": 2,
+        "choice_list": [
+            "A cargo ship.",
+            "A fisher ship.",
+            "A partnership.",
+            "None of above."
+        ],
+        "choice_order": [
+            2,
+            1,
+            0,
+            3
+        ]
+    },
+    {
+        "Question": "What type of pen doesn't write?",
+        "Answer": "A penguin.",
+        "Choice1": "A crayon.",
+        "Choice2": "A chalk.",
+        "Choice3": "None of above.",
+        "label": 2,
+        "choice_list": [
+            "A chalk.",
+            "A crayon.",
+            "A penguin.",
+            "None of above."
+        ],
+        "choice_order": [
+            2,
+            1,
+            0,
+            3
+        ]
+    },
+    {
+        "Question": "In the center of sun, what can you find.",
+        "Answer": "The letter U.",
+        "Choice1": "The letter S.",
+        "Choice2": "The letter N.",
+        "Choice3": "None of above.",
+        "label": 2,
+        "choice_list": [
+            "The letter S.",
+            "The letter N.",
+            "The letter U.",
+            "None of above."
+        ],
+        "choice_order": [
+            1,
+            2,
+            0,
+            3
+        ]
+    }
+]

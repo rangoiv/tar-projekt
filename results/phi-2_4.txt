@@ -1,0 +1,40 @@
+phi-2 (20 tokens limit, do_sample=True)
+
+Please pick the best choice for the brain teaser. Each brain teaser has only one possible solution including the choice none of above, answer should only provide the choice:
+
+Question: {}
+
+What is the correct answer to the question from the following choices?
+(A): {}
+(B): {}
+(C): {}
+(D): {}
+
+Solution:
+The correct answer is 
+{
+    "wordplay": {
+        "over_all accuracy": 0.25,
+        "original_accuracy": 0.26515151515151514,
+        "semantic_accuracy": 0.2196969696969697,
+        "context_accuracy": 0.26515151515151514,
+        "ori_sema": 0.06060606060606061,
+        "ori_sema_cont": 0.022727272727272728
+    },
+    "sentence": {
+        "over_all accuracy": 0.2642998027613412,
+        "original_accuracy": 0.28994082840236685,
+        "semantic_accuracy": 0.25443786982248523,
+        "context_accuracy": 0.2485207100591716,
+        "ori_sema": 0.07692307692307693,
+        "ori_sema_cont": 0.03550295857988166
+    },
+    "all": {
+        "over_all accuracy": 0.25802879291251385,
+        "original_accuracy": 0.27906976744186046,
+        "semantic_accuracy": 0.23920265780730898,
+        "context_accuracy": 0.2558139534883721,
+        "ori_sema": 0.06976744186046512,
+        "ori_sema_cont": 0.029900332225913623
+    }
+}

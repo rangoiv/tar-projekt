@@ -1,7 +1,7 @@
 import numpy as np
 import json
 
-file_name = 'SP-train.npy'
+file_name = 'SP_eval_data_for_practice.npy'
 
 # Load the data with allow_pickle=True if it contains Python objects
 data = np.load(f'data/{file_name}', allow_pickle=True)

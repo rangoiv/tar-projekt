@@ -1,0 +1,35 @@
+phi-2
+Question: {}
+Choice:
+(A) {}
+(B) {}
+(C) {}
+(D) {}
+
+Answer:(
+{
+    "wordplay": {
+        "over_all accuracy": 0.6666666666666666,
+        "original_accuracy": 0.6818181818181818,
+        "semantic_accuracy": 0.6060606060606061,
+        "context_accuracy": 0.7121212121212122,
+        "ori_sema": 0.4621212121212121,
+        "ori_sema_cont": 0.36363636363636365
+    },
+    "sentence": {
+        "over_all accuracy": 0.5029585798816568,
+        "original_accuracy": 0.514792899408284,
+        "semantic_accuracy": 0.514792899408284,
+        "context_accuracy": 0.47928994082840237,
+        "ori_sema": 0.3727810650887574,
+        "ori_sema_cont": 0.22485207100591717
+    },
+    "all": {
+        "over_all accuracy": 0.574750830564784,
+        "original_accuracy": 0.5880398671096345,
+        "semantic_accuracy": 0.5548172757475083,
+        "context_accuracy": 0.5813953488372093,
+        "ori_sema": 0.4119601328903654,
+        "ori_sema_cont": 0.2857142857142857
+    }
+}

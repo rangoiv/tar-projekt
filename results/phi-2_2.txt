@@ -1,0 +1,53 @@
+phi-2 (20 tokens limit, do_sample=True)
+
+Please pick the best choice for the brain teaser. Each brain teaser has only one possible solution including the choice none of above, answer should only provide the choice:
+
+Question: Five kids were playing in a park when it suddenly started to rain. Four of the kids dashed towards a nearby tree for shelter, but the fifth did not. Yet, they all stayed dry, and all but the fifth were out of breath. How is that possible?
+
+What is the correct answer to the question from the following choices?
+(A): This kid walked much faster than they run
+(B): The fifth kid was in a picture that one of the other kids was holding.
+(C): The 5th kid walked slowly  to dodge the snow.
+(D): None of above.
+
+Solution:
+The correct answer is (B)
+
+Please pick the best choice for the brain teaser. Each brain teaser has only one possible solution including the choice none of above, answer should only provide the choice:
+
+Question: {}
+
+What is the correct answer to the question from the following choices?
+(A): {}
+(B): {}
+(C): {}
+(D): {}
+
+Solution:
+The correct answer is 
+{
+    "wordplay": {
+        "over_all accuracy": 0.21717171717171718,
+        "original_accuracy": 0.18181818181818182,
+        "semantic_accuracy": 0.2196969696969697,
+        "context_accuracy": 0.25,
+        "ori_sema": 0.045454545454545456,
+        "ori_sema_cont": 0.022727272727272728
+    },
+    "sentence": {
+        "over_all accuracy": 0.22287968441814593,
+        "original_accuracy": 0.21301775147928995,
+        "semantic_accuracy": 0.1893491124260355,
+        "context_accuracy": 0.26627218934911245,
+        "ori_sema": 0.05325443786982249,
+        "ori_sema_cont": 0.01775147928994083
+    },
+    "all": {
+        "over_all accuracy": 0.2203765227021041,
+        "original_accuracy": 0.19933554817275748,
+        "semantic_accuracy": 0.2026578073089701,
+        "context_accuracy": 0.2591362126245847,
+        "ori_sema": 0.04983388704318937,
+        "ori_sema_cont": 0.019933554817275746
+    }
+}

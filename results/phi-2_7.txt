@@ -1,0 +1,35 @@
+phi-2 (1000 tokena limit, do_sample=False)
+Question: {}
+Choice:
+(A) {}
+(B) {}
+(C) {}
+(D) {}
+
+Answer:(
+{
+    "wordplay": {
+        "over_all accuracy": 0.43686868686868685,
+        "original_accuracy": 0.44696969696969696,
+        "semantic_accuracy": 0.42424242424242425,
+        "context_accuracy": 0.4393939393939394,
+        "ori_sema": 0.26515151515151514,
+        "ori_sema_cont": 0.14393939393939395
+    },
+    "sentence": {
+        "over_all accuracy": 0.3254437869822485,
+        "original_accuracy": 0.31952662721893493,
+        "semantic_accuracy": 0.28994082840236685,
+        "context_accuracy": 0.3668639053254438,
+        "ori_sema": 0.21893491124260356,
+        "ori_sema_cont": 0.1242603550295858
+    },
+    "all": {
+        "over_all accuracy": 0.3743078626799557,
+        "original_accuracy": 0.3754152823920266,
+        "semantic_accuracy": 0.3488372093023256,
+        "context_accuracy": 0.39867109634551495,
+        "ori_sema": 0.23920265780730898,
+        "ori_sema_cont": 0.132890365448505
+    }
+}
