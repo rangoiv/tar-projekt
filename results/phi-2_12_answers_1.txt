@@ -1,43 +1,43 @@
 phi-2
 Question: Mr. and Mrs. Mustard have six daughters and each daughter has one brother. But there are only 9 people in the family, how is that possible?
 Choice:
-(A) An indoor plant.
-(B) Blue ink.
-(C) Dartboard.
-(D) Wine bottle.
-(E) Red ink.
-(F) Coffee pot.
-(G) Soda bottle.
-(H) Chessboard.
-(I) A house plant
-(J) Each daughter shares the same brother.
-(K) Teapot.
+(A) Wine bottle.
+(B) Some brothers were not loved by family and moved away.
+(C) A house plant
+(D) Red ink.
+(E) Each daughter shares the same brother.
+(F) Dartboard.
+(G) Blue ink.
+(H) An indoor plant.
+(I) Soda bottle.
+(J) Some daughters get married and have their own family.
+(K) Chessboard.
 (L) None of above.
 
 Answer:(
 {
     "wordplay": {
-        "over_all accuracy": 0.35353535353535354,
-        "original_accuracy": 0.3560606060606061,
-        "semantic_accuracy": 0.3181818181818182,
-        "context_accuracy": 0.38636363636363635,
-        "ori_sema": 0.18181818181818182,
-        "ori_sema_cont": 0.12121212121212122
+        "over_all accuracy": 0.17424242424242425,
+        "original_accuracy": 0.14393939393939395,
+        "semantic_accuracy": 0.16666666666666666,
+        "context_accuracy": 0.21212121212121213,
+        "ori_sema": 0.06818181818181818,
+        "ori_sema_cont": 0.03787878787878788
     },
     "sentence": {
-        "over_all accuracy": 0.5384615384615384,
-        "original_accuracy": 0.5207100591715976,
-        "semantic_accuracy": 0.5325443786982249,
-        "context_accuracy": 0.5621301775147929,
-        "ori_sema": 0.378698224852071,
-        "ori_sema_cont": 0.23668639053254437
+        "over_all accuracy": 0.28402366863905326,
+        "original_accuracy": 0.27218934911242604,
+        "semantic_accuracy": 0.24260355029585798,
+        "context_accuracy": 0.33727810650887574,
+        "ori_sema": 0.14201183431952663,
+        "ori_sema_cont": 0.07692307692307693
     },
     "all": {
-        "over_all accuracy": 0.4573643410852713,
-        "original_accuracy": 0.4485049833887043,
-        "semantic_accuracy": 0.43853820598006643,
-        "context_accuracy": 0.4850498338870432,
-        "ori_sema": 0.292358803986711,
-        "ori_sema_cont": 0.18604651162790697
+        "over_all accuracy": 0.23588039867109634,
+        "original_accuracy": 0.2159468438538206,
+        "semantic_accuracy": 0.20930232558139536,
+        "context_accuracy": 0.2823920265780731,
+        "ori_sema": 0.10963455149501661,
+        "ori_sema_cont": 0.059800664451827246
     }
 }
