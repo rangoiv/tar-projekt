@@ -1,0 +1,803 @@
+<s>[INST]
+Question: A man accidentally stumbled and fell into a 1-meter-deep pool. He couldn't swim at all, and there were no other people around him, but he was fine at the end. Why?
+Choice:
+(A) Correct answer.
+(B) He can just stand up as the pool is only 1 meter deep.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+B, C, and D are all correct answers.)
+
+Explanation: Since the man
+
+<s>[INST]
+Question: Despite the fact that the entire flight was lost in a plane crash and each single person is killed, there were survivors. Describe how?
+Choice:
+(A) The married people lived and the singles died.
+(B) Correct answer.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+B, C, D are not the correct answers)
+
+Explanation:
+The question
+
+<s>[INST]
+Question: A man bought a plane ticket to visit his hometown and landed in the next century. How did this happen?
+Choice:
+(A) Correct answer.
+(B) He boarded the plane on New Year's Eve and arrived after midnight on New Year's Day of the next century.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+B, C, and D are all correct answers, depending on the specific circumstances.)
+
+Ex
+
+<s>[INST]
+Question: A sharpshooter hung up his hat and put on a blindfolded. He then walked 100 yards, turned around, and shot a bullet through his hat. The blindfolded was a perfectly good one, completely blocking the man's vision. How did he manage this?
+Choice:
+(A) Correct answer.
+(B) He hung his hat on the barrel of his gun.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+B, C, and D are incorrect.)
+
+Explanation: The question is a classic
+
+<s>[INST]
+Question: I departed my campsite and traveled 3 miles to the south. I then made an eastward turn and traveled 3 miles. After 3 miles of heading north, I turned around and saw a bear eating inside my tent! The bear was what color?
+Choice:
+(A) White.
+
+(B) Correct answer.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+B, C, D are not correct answers.)
+
+Explanation:
+
+The information
+
+<s>[INST]
+Question: A star baseball pitcher threw the baseball 1 mile far, and it miraculously returned to him? How is that possible.
+Choice:
+(A) Correct answer.
+(B) He threw it up.
+
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+B, C, and D are incorrect.)
+
+Explanation:
+A star baseball pitch
+
+<s>[INST]
+Question: There are 5 friends. Friend 1 is palying hide and seek. Friend 2 is playing guitar. Friend 3 is reading a book. Friend 4 is swimming. What is Friend 5 doing?
+Choice:
+(A) Correct answer.
+(B) Correct answer.
+(C) Friend 5 is palying hide and seek.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+None of the above)
+
+Explanation:
+The question states that there are 5
+
+<s>[INST]
+Question: All the electricity was out in town and none of the street lights or traffic signals had power. A dark limousine was cruising down the newly paved blacktop, with its headlights off. A young boy dressed totally in black (with no reflector) stepped out to cross the street. The moon wasn't out and the boy had no flashlight, yet the driver stopped to let the boy cross the street. How did the driver see the boy?
+Choice:
+(A) The driver saw the boy because it was during the daylight hours.
+(B) Correct answer.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+E) The driver used his night vision technology in the limousine to see the boy.
+
+
+<s>[INST]
+Question: A man was looking through a 6th floor window,  thought for a minute then jumped,  but did not die or get hurt at all. How?
+Choice:
+(A) Correct answer.
+(B) He jumped in the window. He was outside the window to wash it.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+B, C, and D are all correct answers depending on the context.)
+
+Explanation
+
+<s>[INST]
+Question: There are two bodies on the floor. They are surrounded by water and broken glass. How did they die?
+Choice:
+(A) Correct answer.
+(B) The bodies were goldfish because their fishbowl got knocked over onto the floor and broke.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+B, C, and D are all correct answers depending on the context.)
+
+Explanation
+
+<s>[INST]
+Question: Cleopatra and Anthony perished after being near a fish tank. What occurred?
+Choice:
+(A) Cleopatra and Anthony were fish and they can't survive without water.
+(B) Correct answer.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+None of the above)
+
+Explanation:
+
+Cleopatra and Mark Ant
+
+<s>[INST]
+Question: Andy is put in a cell with a dirt floor and only one window. The window is too high for him to reach. The only thing in the cell is a shovel. He won't be able to get any food or water and only has two days to escape or he'll die. Andy can't dig a tunnel because it will take him much longer than two days to do it. How will Andy escape from the cell?
+Choice:
+(A) Correct answer.
+(B) Andy has to use the shovel to create a pile of dirt under the window so he can climb up onto it and escape from the cell.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+B, C, and D are incorrect.)
+
+Explanation:
+
+The question states
+
+<s>[INST]
+Question: I have a small money box that is 5 inches broad by 2 inches height.  How many coins can I put in my money box till the box will no longer be empty?
+Choice:
+(A) Correct answer.
+(B) Correct answer.
+(C) One.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+E) The question does not provide enough information to determine the exact number of coins that can fit in
+
+<s>[INST]
+Question: Every two weeks a woman sits down and writes two words on 60 sheets of paper. Why does she do this?
+Choice:
+(A) Correct answer.
+(B) The woman owns her own business with 60 employees. Every week she signs her name on their paychecks.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+B, C, and D are all correct answers depending on the context.)
+
+Explanation
+
+<s>[INST]
+Question: What mathematical symbol can we use to create a number greater than 2 but less than 3 between the numbers 3 and 2?
+Choice:
+(A) A square root.
+(B) Correct answer.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+None of the above)
+
+Explanation:
+
+The question asks for a mathematical symbol
+
+<s>[INST]
+Question: Do you know anything that has four eyes?
+Choice:
+(A) Mississippi.
+(B) Correct answer.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+None of the above)
+
+Explanation:
+The given question is a trick question as
+
+<s>[INST]
+Question: What type of dress does everyone own but never wear?
+Choice:
+(A) Address.
+(B) Correct answer.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+None of the above)
+
+Explanation:
+
+The question is asking about a type
+
+<s>[INST]
+Question: What type of ring does everyone own but never wear?
+Choice:
+(A) Spring.
+(B) Correct answer.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+E) A ring that everyone owns but never wears is a telephone ring. This is a common
+
+<s>[INST]
+Question: What is at the end of a cow and in front of a woman?
+Choice:
+(A) Correct answer.
+(B) Correct answer.
+(C) The letter W.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+I) This question contains contradictory elements and does not have a definitive answer based on the
+
+<s>[INST]
+Question: Which city is based on studying?
+Choice:
+(A) Alphabet city.
+(B) Correct answer.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+B, C, D are incorrect.)
+
+Explanation:
+The given question is a
+
+<s>[INST]
+Question: What does a stone become when in the water?
+Choice:
+(A) A whetstone.
+(B) Correct answer.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+None of the above)
+
+Explanation:
+A stone does not become a whet
+
+<s>[INST]
+Question: What part of Korea is in China?
+Choice:
+(A) The letter A.
+(B) Correct answer.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+None of the above)
+
+Explanation:
+There is no part of Korea that is
+
+<s>[INST]
+Question: What do you call peas which are crazy?
+Choice:
+(A) Peanuts.
+(B) Correct answer.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+None of the above)
+
+Explanation:
+Peas are not called "pean
+
+<s>[INST]
+Question: What word contains all of the twenty six letters?
+Choice:
+(A) Correct answer.
+(B) Alphabet.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+B, C, and D are all correct answers.)
+
+Explanation:
+The words
+
+<s>[INST]
+Question: Which word contain all letters but its length is less than twenty-six.
+Choice:
+(A) Correct answer.
+(B) Alphabet.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+The question itself contains the correct answer in every choice. The word "Correct answer" contains all
+
+<s>[INST]
+Question: David is a five-year-old boy. Fred is a four-year-old boy. Ilina is five years old as well. Daniel is a six-year-old boy. Valentina is nine years old. Ronnie, how old are you?
+Choice:
+(A) Ronnie is 6.
+(B) Correct answer.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+I'm an AI and don't have a age or gender. I can't provide
+
+<s>[INST]
+Question: What 7 letter word becomes longer when the third letter is removed?
+Choice:
+(A) Correct answer.
+(B) Lounger.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+Shorten)
+
+Explanation:
+The correct answer is "shorten." The word
+
+<s>[INST]
+Question: What 7-letter word becomes longer when the third letter is removed?
+Choice:
+(A) Correct answer.
+(B) Lounger.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+Shorten, Shorter, Longer)
+
+Explanation:
+The correct answer is
+
+<s>[INST]
+Question: What 5-letter word becomes shorter when adding new letters?
+Choice:
+(A) Correct answer.
+(B) Correct answer.
+(C) Short.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+Short)
+
+Explanation:
+The given riddle is a classic example of a mis
+
+<s>[INST]
+Question: What animals produce moving music?
+Choice:
+(A) Trumpet.
+(B) Correct answer.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+None of the above)
+
+Explanation:
+Animals do not produce moving music like
+
+<s>[INST]
+Question: What kind of fish chases a mouse?
+Choice:
+(A) Catfish.
+(B) Correct answer.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+None of the above)
+
+Explanation:
+Fish do not chase mice.
+
+<s>[INST]
+Question: What type of fish pursues a mouse?
+Choice:
+(A) Catfish.
+(B) Correct answer.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+None of the above)
+
+Explanation:
+Fish do not pursue mice.
+
+<s>[INST]
+Question: Which room has no walls?
+
+Choice:
+(A) A mushroom
+
+(B) Correct answer.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+E) A maze does not have walls, but it is not a room. The question asks
+
+<s>[INST]
+Question: Which room is wallless?
+Choice:
+(A) A mushroom
+
+(B) Correct answer.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+None of the above)
+
+Explanation:
+
+The given options are not rooms,
+
+<s>[INST]
+Question: What comes once in a minute, twice in a moment, but never in a thousand years?
+Choice:
+(A) Correct answer.
+(B) Correct answer.
+(C) The letter M.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+The letter M does not fit the description given in the riddle.)
+
+The correct answer is
+
+<s>[INST]
+Question: How do you spell hard water with three letters?
+Choice:
+(A) Correct answer.
+(B) ICE.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+None of the above)
+
+Explanation:
+Hard water is not spelled with three
+
+<s>[INST]
+Question: What is seen in the midst of March and April that is not visible at the start or end of each month?
+Choice:
+(A) The letter R.
+(B) Correct answer.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+None of the above)
+
+Explanation:
+The question is asking for something that is
+
+<s>[INST]
+Question: Where does water spring stores his money?
+Choice:
+(A) Correct answer.
+(B) The river bank.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+I'm an assistant and don't have the ability to store money or be a water spring
+
+<s>[INST]
+Question: How do you call a phone that is depressed?
+Choice:
+(A) Blueberry.
+(B) Correct answer.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+None of the above)
+
+Explanation:
+
+The given question is a play on
+
+<s>[INST]
+Question: What kind of music frightens balloons?
+Choice:
+(A) Correct answer.
+(B) Pop Music.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+C, B, and D are incorrect.)
+
+Explanation: Balloons are inan
+
+<s>[INST]
+Question: Which is the world's largest jam?
+Choice:
+(A) Correct answer.
+(B) A traffic jam.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+C, B, and D are correct answers, depending on the context.)
+
+Explanation
+
+<s>[INST]
+Question: What kind of tree can hold items as human?
+Choice:
+(A) Correct answer.
+(B) A palm tree.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+I'm sorry, but there seems to be a mistake in the question as it contains three "
+
+<s>[INST]
+Question: Guess the following three Characters in the list GTF
+Choice:
+(A) T.C.I.
+(B) Correct answer.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+I'm an assistant and don't have the ability to see the list GTF you provided
+
+<s>[INST]
+Question: What letter comes next in the following sequence? D R M F S L T_
+Choice:
+(A) Correct answer.
+(B) Correct answer.
+(C) D.
+
+(D) Correct answer.
+
+[/INST]
+Answer:(
+E) N.
+
+Explanation: The sequence D R M F S L T _
+
+<s>[INST]
+Question: In the following sequence, which letter follows next? D R M F S L _
+Choice:
+(A) Correct answer.
+(B) D.
+
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+E) T.
+
+Explanation: The sequence follows the pattern of alternating conson
+
+<s>[INST]
+Question: How do you make the number one disappear?
+Choice:
+(A) Add a 'G' .
+(B) Correct answer.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+B, C, D are incorrect)
+
+Explanation:
+The question asks for a
+
+<s>[INST]
+Question: What is inside a C that starts with W?
+Choice:
+(A) Correct answer.
+(B) Correct answer.
+(C) Water.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+W) Wild character in C programming.
+
+Explanation:
+In C programming, a
+
+<s>[INST]
+Question: What begins with 'E', ends with 'E', and only has one letter in it?
+Choice:
+(A) Correct answer.
+(B) Correct answer.
+(C) Envelope.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+E) The correct answer is "Empty". However, the given choices do not include the correct answer
+
+<s>[INST]
+Question: What begins with 'M', ends with 'L', and only has one letter in it?
+Choice:
+(A) Mail.
+(B) Correct answer.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+M) Mom. (This is not a valid answer as per the given question, but it'
+
+<s>[INST]
+Question: At the start of eternity, the end of time and space, the beginning of every end, and the end of every race, what is discovered?
+Choice:
+(A) The letter 'E'.
+(B) Correct answer.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+B, C, D are all incorrect answers).
+
+Explanation:
+The question is
+
+<s>[INST]
+Question: What can be found in the center of gravity and universe, at the start of growth and guidance, but it's nowhere in the past or future?
+Choice:
+(A) Correct answer.
+(B) Correct answer.
+(C) The letter 'G'.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+None of the above)
+
+Explanation:
+
+The given riddle is a classic
+
+<s>[INST]
+Question: What do you call a bear with no ear?
+Choice:
+(A) Correct answer.
+(B) Correct answer.
+(C) "B" .
+(D) Correct answer.
+
+[/INST]
+Answer:(
+I'm an assistant and don't have the ability to see the given choices, but I
+
+<s>[INST]
+Question: Which ham has the best springiness?
+Choice:
+(A) Correct answer.
+(B) Correct answer.
+(C) Slingsham.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+I'm an assistant and don't have the ability to eat or determine the springiness of
+
+<s>[INST]
+Question: What sort of wood is never cut?
+Choice:
+(A) Hollywood.
+(B) Correct answer.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+None of the above)
+
+Explanation:
+
+The question is a riddle and
+
+<s>[INST]
+Question: What sort of dish is incapable of holding food?
+Choice:
+(A) Correct answer.
+(B) Petri dish.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+B, C, and D are all correct answers.)
+
+Explanation: A petri
+
+<s>[INST]
+Question: What type of ice never melts?
+Choice:
+(A) Dice.
+(B) Correct answer.
+(C) Correct answer.
+(D) Correct answer.
+
+[/INST]
+Answer:(
+None of the above)
+
+Explanation:
+
+The question is a classic example of
