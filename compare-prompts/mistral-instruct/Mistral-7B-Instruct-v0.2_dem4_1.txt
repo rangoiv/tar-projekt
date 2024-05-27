@@ -1,0 +1,37 @@
+Mistral-7B-Instruct-v0.2
+The following question is a brainteaser. One choice is correct, other choices are semanticaly derived from the question. Sometimes none of the above is correct.
+
+Question: Mr. and Mrs. Mustard have six daughters and each daughter has one brother. But there are only 9 people in the family, how is that possible?
+Choice:
+(A) Some daughters get married and have their own family.
+(B) Each daughter shares the same brother.
+(C) Some brothers were not loved by family and moved away.
+(D) None of above.
+
+Answer:(
+{
+    "wordplay": {
+        "over_all accuracy": 0.25,
+        "original_accuracy": 0.2196969696969697,
+        "semantic_accuracy": 0.2803030303030303,
+        "context_accuracy": 0.25,
+        "ori_sema": 0.16666666666666666,
+        "ori_sema_cont": 0.07575757575757576
+    },
+    "sentence": {
+        "over_all accuracy": 0.3767258382642998,
+        "original_accuracy": 0.42011834319526625,
+        "semantic_accuracy": 0.3136094674556213,
+        "context_accuracy": 0.39644970414201186,
+        "ori_sema": 0.27218934911242604,
+        "ori_sema_cont": 0.14792899408284024
+    },
+    "all": {
+        "over_all accuracy": 0.32115171650055374,
+        "original_accuracy": 0.33222591362126247,
+        "semantic_accuracy": 0.29900332225913623,
+        "context_accuracy": 0.33222591362126247,
+        "ori_sema": 0.22591362126245848,
+        "ori_sema_cont": 0.11627906976744186
+    }
+}

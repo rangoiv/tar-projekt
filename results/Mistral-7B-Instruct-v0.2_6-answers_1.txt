@@ -1,0 +1,40 @@
+Mistral-7B-Instruct-v0.2
+
+<s>[INST]
+Question: Mr. and Mrs. Mustard have six daughters and each daughter has one brother. But there are only 9 people in the family, how is that possible?
+Choice:
+(A) Red ink.
+(B) Some brothers were not loved by family and moved away.
+(C) Each daughter shares the same brother.
+(D) Some daughters get married and have their own family.
+(E) Blue ink.
+(F) None of above.
+
+[/INST]
+Answer:(
+{
+    "wordplay": {
+        "over_all accuracy": 0.28535353535353536,
+        "original_accuracy": 0.26515151515151514,
+        "semantic_accuracy": 0.2803030303030303,
+        "context_accuracy": 0.3106060606060606,
+        "ori_sema": 0.1590909090909091,
+        "ori_sema_cont": 0.08333333333333333
+    },
+    "sentence": {
+        "over_all accuracy": 0.514792899408284,
+        "original_accuracy": 0.4970414201183432,
+        "semantic_accuracy": 0.4970414201183432,
+        "context_accuracy": 0.5502958579881657,
+        "ori_sema": 0.38461538461538464,
+        "ori_sema_cont": 0.26627218934911245
+    },
+    "all": {
+        "over_all accuracy": 0.41417497231450723,
+        "original_accuracy": 0.3953488372093023,
+        "semantic_accuracy": 0.4019933554817276,
+        "context_accuracy": 0.44518272425249167,
+        "ori_sema": 0.2857142857142857,
+        "ori_sema_cont": 0.18604651162790697
+    }
+}
