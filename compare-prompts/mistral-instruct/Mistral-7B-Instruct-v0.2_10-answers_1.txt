@@ -1,0 +1,43 @@
+Mistral-7B-Instruct-v0.2
+The following question is a brainteaser.
+
+Question: Mr. and Mrs. Mustard have six daughters and each daughter has one brother. But there are only 9 people in the family, how is that possible?
+Choice:
+(A) Wine bottle.
+(B) Some brothers were not loved by family and moved away.
+(C) An indoor plant.
+(D) Each daughter shares the same brother.
+(E) A house plant
+(F) Blue ink.
+(G) Red ink.
+(H) Soda bottle.
+(I) Some daughters get married and have their own family.
+(J) None of above.
+
+Answer:(
+{
+    "wordplay": {
+        "over_all accuracy": 0.29040404040404044,
+        "original_accuracy": 0.25757575757575757,
+        "semantic_accuracy": 0.25757575757575757,
+        "context_accuracy": 0.3560606060606061,
+        "ori_sema": 0.14393939393939395,
+        "ori_sema_cont": 0.07575757575757576
+    },
+    "sentence": {
+        "over_all accuracy": 0.5088757396449705,
+        "original_accuracy": 0.5207100591715976,
+        "semantic_accuracy": 0.4437869822485207,
+        "context_accuracy": 0.5621301775147929,
+        "ori_sema": 0.35502958579881655,
+        "ori_sema_cont": 0.24260355029585798
+    },
+    "all": {
+        "over_all accuracy": 0.4130675526024363,
+        "original_accuracy": 0.4053156146179402,
+        "semantic_accuracy": 0.36212624584717606,
+        "context_accuracy": 0.4717607973421927,
+        "ori_sema": 0.26245847176079734,
+        "ori_sema_cont": 0.16943521594684385
+    }
+}
