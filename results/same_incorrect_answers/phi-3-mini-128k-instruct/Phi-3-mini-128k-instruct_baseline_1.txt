@@ -20,17 +20,17 @@ Answer:(
         "ori_sema_cont": 0.16666666666666666
     },
     "sentence": {
-        "over_all accuracy": 0.5009861932938856,
+        "over_all accuracy": 0.5029585798816568,
         "original_accuracy": 0.5207100591715976,
-        "semantic_accuracy": 0.4378698224852071,
+        "semantic_accuracy": 0.4437869822485207,
         "context_accuracy": 0.5443786982248521,
         "ori_sema": 0.34911242603550297,
         "ori_sema_cont": 0.22485207100591717
     },
     "all": {
-        "over_all accuracy": 0.4606866002214839,
+        "over_all accuracy": 0.46179401993355484,
         "original_accuracy": 0.47840531561461797,
-        "semantic_accuracy": 0.4186046511627907,
+        "semantic_accuracy": 0.4219269102990033,
         "context_accuracy": 0.4850498338870432,
         "ori_sema": 0.32558139534883723,
         "ori_sema_cont": 0.19933554817275748
